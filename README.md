@@ -1,6 +1,6 @@
 # vue-sql-test
 
-This template should help get you started developing with Vue 3 in Vite.
+This Project was built as a freelance project and it was for viewing reports from a MSSQL database using Vue3.js.
 
 ## Recommended IDE Setup
 
